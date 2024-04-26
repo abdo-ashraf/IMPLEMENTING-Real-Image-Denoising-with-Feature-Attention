@@ -3,7 +3,7 @@
   - BATCH_SIZE=64
   - seed = 6908
   - lr = 1e-04
-  - epoch=10
+  - epoch=5
   - image_patch_size = (40, 40, 3)
 
 ## Results I achieved:
@@ -22,4 +22,5 @@
       Predictions of patches for DnCNN model
 ![download](https://github.com/abdo-ashraf/IMPLEMENTING-Real-Image-Denoising-with-Feature-Attention/assets/88582125/dcb32fd6-060c-467f-b347-f8efc7054583)
       ONE full image example for DnCNN prediction
-## comparison between your results and the results mentioned in the paper
+## Comparison between my results and the results mentioned in the paper
+- I cannot compare my model results with paper model results as I cannot access datasets of real noisy images that they used to evaluate the model, also I trained the model for 5 epochs only, so my model performance will be less than paper model performance.
