@@ -6,6 +6,8 @@
   - epoch=5
   - image_patch_size = (40, 40, 3)
 
+## Dataset Link: https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500
+
 ## Results I achieved:
 ### For RIDNET model:
   - PSNR of Noisy Image :  20.3 db
